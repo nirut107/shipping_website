@@ -5,8 +5,7 @@ import Info from "./component/info/pageshow";
 export default function App() {
   return (
     <div>
-      <h1>hello</h1>
-      <h2>nirut</h2>
+      <h3>1234</h3>
       <Nevbar />
     </div>
   );
